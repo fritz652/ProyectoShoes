@@ -1,0 +1,18 @@
+.containerCard{
+    width: 460px;
+    height: 210px;
+    border-radius: 20px;
+    background: rgb(185, 185, 241);
+
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.t-30{
+    font-size: 30px !important;
+}
