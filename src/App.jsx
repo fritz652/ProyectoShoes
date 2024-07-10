@@ -1,7 +1,7 @@
 import './App.css'
-
+import Cards from './componets/Cards/Cards'
 import Nav from './componets/nav/Nav'
-import Card from './componets/card/Card'
+
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
         <Nav/>
-        <Card/>
+        <Cards/>
     </>
   )
 }

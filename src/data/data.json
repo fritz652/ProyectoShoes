@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "titulo":"Tênis New Balance Masculino 550 Casual",
+        "descripcion":"Diretamente das quadras de Basquete, homenageando os Ténis marcantes dos Astros creados em 1989",
+        "categoria":"man",
+        "imagen": "https://i.pinimg.com/564x/69/df/51/69df511f2f87c33ef7c4ca54598cf98f.jpg",
+        "precio": 250,
+        "stock": 10
+    },
+    {
+        "id":2,
+        "titulo":"Zapatillas Urbanas Swag",
+        "descripcion":"Zapatillas de urbana converse star",
+        "categoria":"man",
+        "imagen": "https://i.pinimg.com/564x/a3/9c/61/a39c61ad8b7f018e528e4625f7ddfc00.jpg",
+        "precio": 300,
+        "stock": 10
+    },
+    {
+        "id":3,
+        "titulo":"Zapatillas Todd Snyder",
+        "descripcion":"Zapatillas Todd Snyder para hombre",
+        "categoria":"man",
+        "imagen": "https://i.pinimg.com/564x/f2/6d/54/f26d540bfbb154988cad93d625f60ce7.jpg",
+        "precio": 280,
+        "stock": 10
+    },
+    {
+        "id":4,
+        "titulo":"Zapatillas New Balance 550",
+        "descripcion":"Zapatillas paraa tennis de mujer",
+        "categoria":"woman",
+        "imagen": "https://i.pinimg.com/564x/66/ba/b7/66bab75baeef7b75db15feadbfd9fdd3.jpg",
+        "precio": 200,
+        "stock": 10
+    },
+    {
+        "id":5,
+        "titulo":"ZapatillasTrainers Chuck Taylor",
+        "descripcion":"Zapatillas Converse para mujer",
+        "categoria":"woman",
+        "imagen": "https://i.pinimg.com/564x/dd/f1/ff/ddf1ff0666819d118c4ee09438958771.jpg",
+        "precio": 180,
+        "stock": 10
+    },
+    {
+        "id":6,
+        "titulo":"Zapatillas Pinimg Nike",
+        "descripcion":"Zapatillas Urbana Nike Pinimg para mujer",
+        "categoria":"woman",
+        "imagen": "https://i.pinimg.com/564x/f0/37/86/f037868899b08e14599b3198f877eff9.jpg",
+        "precio": 250,
+        "stock": 10
+    },
+    {
+        "id":7,
+        "titulo":"Zapatillas Rivalry Low",
+        "descripcion":"Zapatillas Adidas para niño",
+        "categoria":"child",
+        "imagen": "https://i.pinimg.com/564x/e7/49/83/e74983762313ce266efbd10b67a231b5.jpg",
+        "precio": 100,
+        "stock": 10
+    },
+    {
+        "id":8,
+        "titulo":"Zapatillas Bambino Advantage",
+        "descripcion":"Zapatillas Bambino  para niño",
+        "categoria":"child",
+        "imagen": "https://i.pinimg.com/564x/e4/81/9d/e4819d25956e12e9e365b03d4c3906fd.jpg",
+        "precio": 150,
+        "stock": 10
+    },
+    {
+        "id":3,
+        "titulo":"Zapatillas Start Player",
+        "descripcion":"Zapatillas Converse para niño Start Player",
+        "categoria":"child",
+        "imagen": "https://i.pinimg.com/564x/40/aa/5c/40aa5c6b5dcbff9b09e9da6d70ca0318.jpg",
+        "precio": 100,
+        "stock": 10
+    }
+]
