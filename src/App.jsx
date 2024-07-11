@@ -1,6 +1,7 @@
 import './App.css'
 import Cards from './componets/Cards/Cards'
 import { Counter } from './componets/Counter/Counter'
+import EyeShow from './componets/eyeShow/EyeShow'
 import Show from './componets/show.jsx/Show'
 
 /* import Nav from './componets/nav/Nav' */
@@ -16,6 +17,7 @@ function App() {
         <Usuario  nombre= "Fritz" codigo={123}  nacionalidad="Peruano" profesion="Desarrollador FrontEnd"/>
         <Counter/>
         <Show/>
+        <EyeShow/>
     </>
   )
 }
