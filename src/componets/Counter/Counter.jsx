@@ -17,6 +17,7 @@ export const Counter = () => {
             <div className="w-100">{number}</div>
             <button onClick={decremento} className='bg-btn'>-</button>
         </div>
+        <hr/>
     </>
   )
 }
