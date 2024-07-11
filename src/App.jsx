@@ -1,6 +1,7 @@
 import './App.css'
 import Cards from './componets/Cards/Cards'
-import Nav from './componets/nav/Nav'
+/* import Nav from './componets/nav/Nav' */
+import Usuario from './componets/usuario/Usuario'
 
 
 function App() {
@@ -8,8 +9,8 @@ function App() {
 
   return (
     <>
-        <Nav/>
         <Cards/>
+        <Usuario/>
     </>
   )
 }
