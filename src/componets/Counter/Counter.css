@@ -1,0 +1,21 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-btn{
+    border: solid rgb(104, 104, 209) 2px;
+    color:rgb(104, 104, 209);
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.bg-btn:hover{
+    background-color: rgb(104, 104, 209);
+    color:#fff;
+}
+
+.w-100{
+    width: 100px;
+}
